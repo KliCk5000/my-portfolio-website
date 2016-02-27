@@ -1,0 +1,81 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+    color: #fff;
+    /*text-shadow: 2px 2px 4px #000;*/
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+    background-color: #000;
+}
+
+
+h1 {
+    font-family: 'Passion One', cursive;
+}
+
+#jumbotronSection {
+    position: relative;
+    background: #000 url("../img/blurred-background.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+
+#aboutSection {
+   position: relative;
+    background: #000 url("../img/night-dark-blur-blurred.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 50px;
+}
+
+#portfolioSection {
+    position: relative;
+    background: #000 url("../img/road-street-blur-blurred.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 50px;
+}
+
+#contactSection {
+    position: relative;
+    background: #000 url("../img/blurred-background.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 50px;
+}
+
+footer {
+    padding-top: 10px;
+}
+
+.round-img {
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 auto;
+}
+
+.box-shadow {
+    -webkit-box-shadow: 0 0 3px 2px #000;
+    box-shadow: 0 0 3px 2px #000;
+}
+
+.thumb-img {
+    width: 300px;
+    height: 200px;
+}
+
+
