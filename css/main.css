@@ -78,4 +78,11 @@ footer {
     height: 200px;
 }
 
+.btn {
+    margin-bottom: 10px;
+}
 
+.btn-group {    
+    float: right;
+    min-width: 275px;
+}
